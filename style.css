@@ -1,0 +1,21 @@
+.beranda {
+    padding: 40px 20px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.beranda h1 {
+    font-size: 2.5em;
+
+}
+
+.produk {
+    font-size: 1em;
+    padding: 40px 20px;
+    line-height: 1.5;
+}
+
+.produk h2 {
+    font-size: 2em;
+    text-align: center;
+}
